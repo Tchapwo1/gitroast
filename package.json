@@ -5,7 +5,7 @@
   "main": "src/roaster.js",
   "type": "module",
   "bin": {
-    "gitroast": "./bin/gitroast.js"
+    "gitroast": "bin/gitroast.js"
   },
   "scripts": {
     "start": "node ./bin/gitroast.js",
