@@ -3,22 +3,21 @@
 > **Savage forensic code, commit, and hygiene roaster for any public GitHub repository.**  
 > Turn your git repository into hilarious, unhinged, viral terminal roasts with one command.
 
-```text
-  ██████╗ ██╗████████╗██████╗  ██████╗  █████╗ ███████╗████████╗
- ██╔════╝ ██║╚══██╔══╝██╔══██╗██╔═══██╗██╔══██╗██╔════╝╚══██╔══╝
- ██║  ███╗██║   ██║   ██████╔╝██║   ██║███████║███████╗   ██║   
- ██║   ██║██║   ██║   ██╔══██╗██║   ██║██╔══██║╚════██║   ██║   
- ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██║  ██║███████║   ██║   
-  ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   
-```
-
+[![Live Playground](https://img.shields.io/badge/Live_Playground-vernedaily.xyz%2Froast-FF4500?style=for-the-badge&logo=cloudflare&logoColor=white)](https://vernedaily.xyz/roast)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-blue.svg)](https://nodejs.org)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Tchapwo1/gitroast)
 
 ---
 
-## ⚡ Quick Start
+## 🌐 Instant Web Playground (No Terminal Required)
+
+On your phone or browser? Try the live interactive edge sandbox:  
+👉 **[vernedaily.xyz/roast](https://vernedaily.xyz/roast)** (Enter any repo -> instant roast + 1-click Tweet)
+
+---
+
+## ⚡ Terminal Quick Start
 
 No installation required. Run directly with `npx`:
 
