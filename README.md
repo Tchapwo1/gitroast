@@ -58,7 +58,9 @@ GitRoast connects to the GitHub API, analyzes forensic hygiene metrics, and comp
 
 ---
 
-## 📸 Sample Output
+## 📸 Live Output & Screenshot
+
+![GitRoast roasting facebook/react](./gitroast-facebook-react.png)
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
