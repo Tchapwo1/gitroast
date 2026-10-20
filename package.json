@@ -1,0 +1,31 @@
+{
+  "name": "gitroast",
+  "version": "1.0.0",
+  "description": "Savage forensic code, commit, and hygiene roaster for any public GitHub repository.",
+  "main": "src/roaster.js",
+  "type": "module",
+  "bin": {
+    "gitroast": "./bin/gitroast.js"
+  },
+  "scripts": {
+    "start": "node ./bin/gitroast.js",
+    "test": "node ./bin/gitroast.js Tchapwo1/repospy"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "roast",
+    "code-review",
+    "developer-tools",
+    "funny",
+    "cli"
+  ],
+  "author": "Tchapwo1",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "ora": "^8.1.0"
+  }
+}
